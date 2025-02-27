@@ -1,6 +1,5 @@
 streamlit==1.42.2
 langchain==0.3.19
-langchain-groq==0.1.0
 sentence-transformers==2.6.1
 chromadb==0.6.3
 pypdf==4.2.0
