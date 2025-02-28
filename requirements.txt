@@ -4,7 +4,7 @@ groq
 pydantic
 streamlit
 sentence-transformers
-chromadb
+chromadb==0.4.24
 pypdf
 torch
 uvicorn
