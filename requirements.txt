@@ -11,3 +11,4 @@ uvicorn
 watchdog
 fastapi
 tqdm
+numpy==1.23.5
